@@ -1,5 +1,8 @@
 {
   "m.homeserver": {
     "base_url": "https://matrix.esko.bar"
+  },
+  "m.identity_server": {
+    "base_url": "https://matrix.esko.bar"
   }
 }
